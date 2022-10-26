@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-
+           Console.WriteLine("Здесь будет код, просто я жеско не успеваю") 
         }
     }
 }
